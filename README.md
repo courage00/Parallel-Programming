@@ -1,5 +1,5 @@
 # Parallel-Programming 2020
-link:https://nycu-sslab.github.io/PP-f20/
+## Link : https://nycu-sslab.github.io/PP-f20/
 - HW1 :
   - SIMD Programming
 - HW2 :
